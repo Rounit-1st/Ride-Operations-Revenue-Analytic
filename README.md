@@ -65,12 +65,6 @@ SQL analysis uses joins, aggregations, CTEs, and window functions to answer thes
 3. Run SQL queries to analyze business performance.
 4. Visualize the findings using Power BI.
 
-## Dashboard
-
-_Add a screenshot of your Power BI dashboard here._
-
-![Power BI Dashboard](images/dashboard.png)
-
 ## Conclusion
 
 This project demonstrates how Python, PostgreSQL, and Power BI can be used together to analyze business data, identify important trends, and support data-driven decisions.
